@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307721472564",
+    "project_id": "syndicat-dc143",
+    "storage_bucket": "syndicat-dc143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307721472564:android:ce9f5d38cdf164b9775861",
+        "android_client_info": {
+          "package_name": "com.example.gestiondesyndicatdecopropriete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LNOhKuq07x-Vi4sZKuM6thg8-zFdO1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
